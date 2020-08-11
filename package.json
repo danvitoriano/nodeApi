@@ -1,0 +1,18 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "uma pequena api node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api"
+  ],
+  "author": "dan vitoriano",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
